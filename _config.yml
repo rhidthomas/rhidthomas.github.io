@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "reading_photo.JPG"
   name             : "Rhidian Thomas"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Physical climate scientist"
   location         : "Reading, UK"
   employer         : "NCAS / University of Reading"
   uri              : # URL
