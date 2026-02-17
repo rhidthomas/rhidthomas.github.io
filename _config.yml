@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Rhidian Thomas"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Rhidian Thomas"
+description              : &description "Rhidian Thomas's academic website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://rhidthomas.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "bio-photo-2.jpg"
   name             : "Rhidian Thomas"
-  pronouns         : "he/him"# example: "she/her"  
+  pronouns         : "(he/him)"# example: "she/her"  
   bio              : "Physical climate scientist"
   location         : "Reading, UK"
-  employer         : "NCAS / University of Reading"
+  employer         : "NCAS, University of Reading"
   uri              : # URL
   email            : "r.h.thomas@reading.ac.uk" 
 
